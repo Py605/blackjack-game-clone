@@ -1,2 +1,2 @@
-# blackjack-game-clone
-Clone of Blackjack Game
+# Copy of Blackjack game...
+![preivew](https://user-images.githubusercontent.com/67111661/189484992-ac597267-6dc9-4f8c-8d96-037001e415ab.png)
